@@ -1,0 +1,2 @@
+# smartRice
+SMART RICE MANAGEMENT 
